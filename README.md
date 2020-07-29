@@ -12,3 +12,9 @@ If you just run the script as is, it will plot the Les Paul guitar shape, shown 
 If you want to make other guitar shapes, you will need to adjust the parameters for the guitar equation used in the guitarCurve function. I found this equation and parameters on this website (http://www.mnealon.eosc.edu/The_Nealon_Equation.html). It has the equation parameters for other shapes like Strat and Tele.
 
 As I progress with the project, I will upload images to show how it worked out! I just got the last legos I needed to get started and am now working on building the bottom plate. If anyone else tries something like this or uses this program, let me know! I would think that is really cool.
+
+Here is some example output the program produced. The first just shows how to make the shape of the guitar, and the second is turning an image I found online into a lego mosaic on the guitar.
+
+Images/GuitarGridAndLines.png
+
+Images/Stormtrooper_Guitar.png
