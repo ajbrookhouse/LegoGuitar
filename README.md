@@ -15,6 +15,8 @@ As I progress with the project, I will upload images to show how it worked out! 
 
 Here is some example output the program produced. The first just shows how to make the shape of the guitar, and the second is turning an image I found online into a lego mosaic on the guitar.
 
-Images/GuitarGridAndLines.png
+https://github.com/ajbrookhouse/LegoGuitar/blob/master/Images/GuitarGridAndLines.png
 
-Images/Stormtrooper_Guitar.png
+https://github.com/ajbrookhouse/LegoGuitar/blob/master/Images/Stormtrooper_Guitar.png
+
+Yes, the guitar will probaby be Star Wars themed when I'm finished decorating it.
