@@ -169,6 +169,7 @@ def sin(x):
 def arctan(x):
     return np.arctan(x)
 
+#The following 3 functions use equations found here http://www.mnealon.eosc.edu/The_Nealon_Equation.html
 def guitarCurve(x,A=-.06393446,B=-.7410887,C=1.180973,D=-1.24886,E=.3187446,F=-.8305975,G=2.352912,H=-.1870003,I=3.40192,J=-.01303915,K=1.349344,L=4.32767,M=5.228206,N=-.4099881,O=-.000250234,P=.0007021002,Q=0,R=18.26765,S=18.1965,BL=19.35):
     return (A * np.sin(B*x + C) + D * np.sin(E * x + F) + G * np.sin(H * x + I) + J * np.sin(K * x + L)) * (M * x**4 + N * x**3 + O * x**2 + P * x + Q) * (np.arctan(R * x)) * (np.arctan(S * (BL - x)))
 
