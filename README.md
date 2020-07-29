@@ -7,7 +7,7 @@ The guitar is going to be made by creating a bottom from two layers of Lego Plat
 
 The two main uses of this script are to figure out the shape of a guitar, quantized to lego dimensions, and to take an image and make a mosaic out of lego tiles.
 
-If you just run the script as is, it will plot the Les Paul guitar shape, shown a few different ways with matplotlib. If you are interested in how it creates images on the guitar, uncomment line 204 and provide an image path to try.
+If you just run the script as is, it will plot the Les Paul guitar shape, shown a few different ways with matplotlib. If you are interested in how it creates images on the guitar, uncomment line 205 and provide an image path to try.
 
 If you want to make other guitar shapes, you will need to adjust the parameters for the guitar equation used in the guitarCurve function. I found this equation and parameters on this website (http://www.mnealon.eosc.edu/The_Nealon_Equation.html). It has the equation parameters for other shapes like Strat and Tele.
 
